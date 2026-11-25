@@ -11,7 +11,7 @@ My GitHub portfolio showcases my integrated projects and repositories, combining
 
 *Data analysis*
 
-![ANSI SQL](https://img.shields.io/badge/ANSI_SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) https://img.shields.io/badge/ERP_Data-1565C0?style=for-the-badge ![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge)
+![ANSI SQL](https://img.shields.io/badge/ANSI_SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![ERP Data](https://img.shields.io/badge/ERP_Data-1565C0?style=for-the-badge) ![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge)
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-6F2DA8?style=for-the-badge) ![Data Modeling](https://img.shields.io/badge/Data_Modeling-1976D2?style=for-the-badge)
 ![Dashboard Design](https://img.shields.io/badge/Dashboard_Design-FF6F00?style=for-the-badge) ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2334A853.svg?style=for-the-badge&logo=googlesheets&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
@@ -21,8 +21,12 @@ My GitHub portfolio showcases my integrated projects and repositories, combining
 
 *Lean methodology*
 
-https://img.shields.io/badge/Lean_Manufacturing-D32F2F?style=for-the-badge https://img.shields.io/badge/Continuous_Improvement-388E3C?style=for-the-badge https://img.shields.io/badge/Value_Stream_Mapping-1976D2?style=for-the-badge https://img.shields.io/badge/Root_Cause_Analysis-7B1FA2?style=for-the-badge 
-https://img.shields.io/badge/Waste_Reduction-795548?style=for-the-badge https://img.shields.io/badge/OEE-005A9C?style=for-the-badge
+![Lean Manufacturing](https://img.shields.io/badge/Lean_Manufacturing-D32F2F?style=f
+or-the-badge) ![Continuous Improvement](https://img.shields.io/badge/Continuous_Improvement-388E3C
+?style=for-the-badge) ![Value Stream Mapping](https://img.shields.io/badge/Value_Stream_Mapping-1976D2?sty
+le=for-the-badge) ![Root Cause Analysis](https://img.shields.io/badge/Root_Cause_Analysis-7B1FA2?style
+=for-the-badge) ![Waste Reduction](https://img.shields.io/badge/Waste_Reduction-795548?style=for-the-badge)
+![OEE](https://img.shields.io/badge/OEE-005A9C?style=for-the-badge)
 
 *Tools*
 
