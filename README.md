@@ -24,7 +24,7 @@ My GitHub portfolio showcases my integrated projects and repositories, combining
 
 ![Lean Manufacturing](https://img.shields.io/badge/LEAN_MANUFACTURING-black?style=for-the-badge) 
 ![Kaizen](https://img.shields.io/badge/KAIZEN-blue?style=for-the-badge) 
-![DMAIC](https://img.shields.io/badge/DMAIC-darkgreen?style=for-the-badge) B6
+![DMAIC](https://img.shields.io/badge/DMAIC-darkgreen?style=for-the-badge)
 ![Value Stream Mapping](https://img.shields.io/badge/VALUE_STREAM_MAPPING-orange?style=for-the-badge) 
 ![Root Cause Analysis](https://img.shields.io/badge/ROOT_CAUSE_ANALYSIS-red?style=for-the-badge) ![Waste Reduction](https://img.shields.io/badge/Waste_Reduction-795548?style=for-the-badge)
 ![OEE](https://img.shields.io/badge/OEE-005A9C?style=for-the-badge)
