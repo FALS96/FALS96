@@ -1,16 +1,19 @@
-## Hi there 👋
+# Félix Antonio Lira Sacramento #
 
-<!--
-**FALS96/FALS96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lean Methodologies - Data Analytics - Supply Chain - Business Intelligence
 
-Here are some ideas to get you started:
+Hi world. 
+My GitHub portfolio showcases my integrated projects and repositories, combining operational manufacturing experience with advanced data analytics to transform real-world supply chain challenges, operational KPIs, database information, and ERP software into actionable, high-impact business decisions. My expertise includes Lean methodologies, SQL, Python (Pandas and NumPy), Power BI (DAX, Query), process automation (VBA), and the development of executive dashboards. I also create visual presentation strategies for stakeholders to optimize and promote digital migration (Industry 4.0), productivity, and supply chain management, converting complex data into high-impact business strategies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Programming*
+
+
+*Data analysis*
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+*Data visualization*
+
+
+*Tools*
+
+
