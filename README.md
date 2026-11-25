@@ -21,11 +21,7 @@ My GitHub portfolio showcases my integrated projects and repositories, combining
 
 *Lean methodology*
 
-![Lean Manufacturing](https://img.shields.io/badge/Lean_Manufacturing-D32F2F?style=f
-or-the-badge) ![Continuous Improvement](https://img.shields.io/badge/Continuous_Improvement-388E3C
-?style=for-the-badge) ![Value Stream Mapping](https://img.shields.io/badge/Value_Stream_Mapping-1976D2?sty
-le=for-the-badge) ![Root Cause Analysis](https://img.shields.io/badge/Root_Cause_Analysis-7B1FA2?style
-=for-the-badge) ![Waste Reduction](https://img.shields.io/badge/Waste_Reduction-795548?style=for-the-badge)
+![Waste Reduction](https://img.shields.io/badge/Waste_Reduction-795548?style=for-the-badge)
 ![OEE](https://img.shields.io/badge/OEE-005A9C?style=for-the-badge)
 
 *Tools*
