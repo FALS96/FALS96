@@ -2,6 +2,8 @@
 
 Lean Methodologies - Data Analytics - Supply Chain - Business Intelligence
 
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-4CAF50?style=for-the-badge) ![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF9800?style=for-the-badge) ![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-005A9C?style=for-the-badge)
+
 Hi world. 
 My GitHub portfolio showcases my integrated projects and repositories, combining operational manufacturing experience with advanced data analytics to transform real-world supply chain challenges, operational KPIs, database information, and ERP software into actionable, high-impact business decisions. My expertise includes Lean methodologies, SQL, Python (Pandas and NumPy), Power BI (DAX, Query), process automation (VBA), and the development of executive dashboards. I also create visual presentation strategies for stakeholders to optimize and promote digital migration (Industry 4.0), productivity, and supply chain management, converting complex data into high-impact business strategies.
 
@@ -11,11 +13,14 @@ My GitHub portfolio showcases my integrated projects and repositories, combining
 
 *Data analysis*
 
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2334A853.svg?style=for-the-badge&logo=googlesheets&logoColor=white)
+![ANSI SQL](https://img.shields.io/badge/ANSI_SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-6F2DA8?style=for-the-badge) ![Data Modeling](https://img.shields.io/badge/Data_Modeling-1976D2?style=for-the-badge)
+![Dashboard Design](https://img.shields.io/badge/Dashboard_Design-FF6F00?style=for-the-badge) ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2334A853.svg?style=for-the-badge&logo=googlesheets&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 *Data visualization*
 
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 *Tools*
 
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-%23035a7d.svg?style=for-the-badge&logo=kaggle&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-%23035a7d.svg?style=for-the-badge&logo=kaggle&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
