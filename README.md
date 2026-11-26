@@ -30,8 +30,7 @@ My GitHub portfolio showcases my integrated projects and repositories, combining
 ![DMAIC](https://img.shields.io/badge/DMAIC-darkgreen?style=for-the-badge)
 ![Value Stream Mapping](https://img.shields.io/badge/VALUE_STREAM_MAPPING-orange?style=for-the-badge) 
 ![Root Cause Analysis](https://img.shields.io/badge/ROOT_CAUSE_ANALYSIS-red?style=for-the-badge) ![Waste Reduction](https://img.shields.io/badge/Waste_Reduction-795548?style=for-the-badge)
-![OEE](https://img.shields.io/badge/OEE-005A9C?style=for-the-badge) 
-![Standard Work](https://img.shields.io/badge/STANDARD_WORK-green?style=for-the-badge), 
+![OEE](https://img.shields.io/badge/OEE-005A9C?style=for-the-badge) ![Standard Work](https://img.shields.io/badge/STANDARD_WORK-green?style=for-the-badge), 
 ![Operational Excellence](https://img.shields.io/badge/OPERATIONAL_EXCELLENCE-gold?style=for-the-badge) 
 ![A3 Problem Solving](https://img.shields.io/badge/A3_PROBLEM_SOLVING-blue?style=for-the-badge)
 
